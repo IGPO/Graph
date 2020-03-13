@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.353,D:\igpo\projects\embarcadero\Project1.cbproj=D:\igpo\projects\embarcadero\Graph\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.136,D:\igpo\projects\embarcadero\Unit1.h=D:\igpo\projects\embarcadero\Graph\Graph.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.777,D:\igpo\projects\embarcadero\Project1PCH1.h=D:\igpo\projects\embarcadero\Graph\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.561,=D:\igpo\projects\embarcadero\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.136,D:\igpo\projects\embarcadero\Unit1.dfm=D:\igpo\projects\embarcadero\Graph\Graph.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.130,=D:\igpo\projects\embarcadero\Graph\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.618,=D:\igpo\projects\embarcadero\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.136,D:\igpo\projects\embarcadero\Unit1.cpp=D:\igpo\projects\embarcadero\Graph\Graph.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
