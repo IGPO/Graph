@@ -18,8 +18,8 @@ __fastcall TForm1::TForm1(TComponent* Owner)
 void __fastcall TForm1::FormActivate(TObject *Sender)
 {
 	 Edit1->Text = "30";
-     Edit2->Text = "-5";
-     Edit3->Text = "5";
+     Edit2->Text = "-4";
+	 Edit3->Text = "4";
 	 Edit4->Text = "-2";
      Edit5->Text = "2";
 	 Edit1->SetFocus(); // установить фокус ввода в Edit1
